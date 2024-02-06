@@ -17,5 +17,19 @@ This Python script is designed to extract Malayalam data from Common Crawl. It d
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/malayalam-data-extractor.git
-   cd malayalam-data-extractor
+   git clone https://github.com/fawzanoachira/Common-Crawl-Malayalam-Data-Extractor.git
+   cd Common-Crawl-Malayalam-Data-Extractor
+
+2. **Install Dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the script**
+
+   ```bash
+   python3 main.py
+
+4. **Output**
+
+The script will generate a file named which is same as the corresponding file downloaded from URL, containing the extracted Malayalam content.
