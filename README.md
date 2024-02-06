@@ -32,4 +32,9 @@ This Python script is designed to extract Malayalam data from Common Crawl. It d
 
 4. **Output**
 
-The script will generate a file named which is same as the corresponding file downloaded from URL, containing the extracted Malayalam content.
+   The script will generate a file named which is same as the corresponding file downloaded from URL, containing the extracted Malayalam content.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please [open an issue]([https://github.com/fawzanoachira/Common-Crawl-Malayalam-Data-Extractor.git]) or submit a pull request.
+
