@@ -36,5 +36,5 @@ This Python script is designed to extract Malayalam data from Common Crawl. It d
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please [open an issue]([https://github.com/fawzanoachira/Common-Crawl-Malayalam-Data-Extractor.git]) or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/fawzanoachira/Common-Crawl-Malayalam-Data-Extractor.git) or submit a pull request.
 
