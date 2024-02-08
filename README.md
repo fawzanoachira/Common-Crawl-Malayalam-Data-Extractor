@@ -28,7 +28,7 @@ This Python script is designed to extract Malayalam data from Common Crawl. It d
 3. **Run the script**
 
    ```bash
-   python3 main.py
+   python3 malayalam_extractor.py
 
 4. **Output**
 
